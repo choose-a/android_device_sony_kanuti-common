@@ -13,8 +13,8 @@
 # limitations under the License.
 
 import init.common.rc
-import init.common.srv-legacy.rc
-import init.common.usb-legacy.rc
+import init.common.srv.rc
+import init.common.usb.rc
 import init.kanuti.pwr.rc
 
 on init
